@@ -1,3 +1,3 @@
-name : Hyejin Joo
-e-mail : email@snu.ac.kr
-room : 415
+name :
+e-mail :
+room :
