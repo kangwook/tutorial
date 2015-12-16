@@ -1,3 +1,8 @@
+
 name : Chang-Gun Lee	
 e-mail : iamcglee@gmail.com	
 room : 409
+
+name : Hwansuk Choi
+e-mail : hschoi@rubis.snu.ac.kr
+room : 415
