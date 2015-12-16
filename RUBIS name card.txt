@@ -1,3 +1,3 @@
-name :
-e-mail :
-room :
+name : Jeongyoon Eo
+e-mail : jeongyoon0807@gmail.com
+room : 301-415
